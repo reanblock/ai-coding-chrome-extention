@@ -3,6 +3,7 @@
 Partially taken from [this tutorial](https://www.youtube.com/watch?v=dJhlMn2otxA).
 
 
+![SnapStash Icon](images/icon128.png)
 
 ## SnapStash
 
