@@ -24,7 +24,7 @@ To test your Chrome extension, follow these steps:
    1. Once loaded, you should see your extension's icon in the Chrome toolbar. Optionally you can pin the extention to have better access for testing.
    2. Click the icon to open the popup and test its functionality, such as saving URLs and displaying the shopping list.
 
-If you encounter any issues, make sure all file paths in manifest.json are correct and that all required files are present
+If you encounter any issues, make sure all file paths in `manifest.json` are correct and that all required files are present
 in the directory
 
 At this point you can leave the extention loaded and keep iterating the functionality and design!
